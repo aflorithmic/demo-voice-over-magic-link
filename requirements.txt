@@ -1,0 +1,4 @@
+apiaudio==0.15.1
+python-dotenv==0.19.2
+requests==2.27.1
+youtube-dl==2021.12.17
